@@ -1,0 +1,67 @@
+,Biomarkers,drug2_Response
+0,loss:cnaPANCAN99 (SOX17),Resistance
+1,RB1_mut,Resistance
+2,loss:cnaPANCAN50,Resistance
+3,loss:cnaPANCAN51,Resistance
+4,loss:cnaPANCAN49,Resistance
+5,loss:cnaPANCAN48,Resistance
+6,loss:cnaPANCAN47,Resistance
+7,loss:cnaPANCAN46,Resistance
+8,loss:cnaPANCAN45,Resistance
+9,"gain:cnaPANCAN27 (GATA3,KLF6,LARP4B,VIM)",Resistance
+10,gain:cnaPANCAN242 (PIK3CB),Resistance
+11,PTEN_mut,Resistance
+12,TP53_mut,Resistance
+13,ARID4A_mut,Resistance
+14,loss:cnaPANCAN20,Resistance
+15,loss:cnaPANCAN113,Resistance
+16,CHD9_mut,Resistance
+17,"gain:cnaPANCAN176 (CCT5,TERT,TRIO)",Resistance
+18,"gain:cnaPANCAN84 (FGFR1,WHSC1L1)",Resistance
+19,"loss:cnaPANCAN289 (CDKN2C,FAF1)",Resistance
+20,FXR1_mut,Resistance
+21,loss:cnaPANCAN74,Resistance
+22,loss:cnaPANCAN215,Resistance
+23,loss:cnaPANCAN180,Resistance
+24,loss:cnaPANCAN179,Resistance
+25,loss:cnaPANCAN258,Resistance
+26,loss:cnaPANCAN137 (POT1),Resistance
+27,loss:cnaPANCAN63,Resistance
+28,gain:cnaPANCAN268,Resistance
+29,gain:cnaPANCAN177 (IL7R),Resistance
+30,EIF4G3_mut,Resistance
+31,SOS2_mut,Resistance
+32,loss:cnaPANCAN259,Resistance
+33,loss:cnaPANCAN260,Resistance
+34,loss:cnaPANCAN370,Resistance
+35,gain:cnaPANCAN240,Resistance
+36,loss:cnaPANCAN43,Resistance
+37,loss:cnaPANCAN94,Resistance
+38,KDM5C_mut,Resistance
+39,loss:cnaPANCAN93,Resistance
+40,loss:cnaPANCAN64,Resistance
+41,loss:cnaPANCAN65,Resistance
+42,CLASP2_mut,Resistance
+43,loss:cnaPANCAN254,Resistance
+44,"loss:cnaPANCAN256 (CACNA1D,WNT5A)",Resistance
+45,DLG1_mut,Resistance
+46,WHSC1_mut,Resistance
+47,loss:cnaPANCAN184 (APC),Resistance
+48,loss:cnaPANCAN98,Resistance
+49,loss:cnaPANCAN97,Resistance
+50,ARFGEF1_mut,Resistance
+51,loss:cnaPANCAN290,Resistance
+52,loss:cnaPANCAN72,Resistance
+53,loss:cnaPANCAN82,Resistance
+54,loss:cnaPANCAN81,Resistance
+55,PTPRU_mut,Resistance
+56,NCOR1_mut,Resistance
+57,loss:cnaPANCAN373,Resistance
+58,gain:cnaPANCAN124 (EGFR),Resistance
+59,loss:cnaPANCAN261,Resistance
+60,loss:cnaPANCAN371,Resistance
+61,loss:cnaPANCAN372,Resistance
+62,NCOR2_mut,Sensitivity
+63,BCR-ABL_mut,Sensitivity
+64,"gain:cnaPANCAN239 (FOXP1,MITF)",Sensitivity
+65,BRAF_mut,Sensitivity

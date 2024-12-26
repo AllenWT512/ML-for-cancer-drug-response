@@ -1,0 +1,25 @@
+,Biomarkers,drug4_Response
+0,"gain:cnaPANCAN108 (CHD9,CYLD)",Resistance
+1,loss:cnaPANCAN357 (ACVR2A),Resistance
+2,"gain:cnaPANCAN27 (GATA3,KLF6,LARP4B,VIM)",Resistance
+3,CUX1_mut,Resistance
+4,"gain:cnaPANCAN241 (NCK1,STAG1)",Resistance
+5,gain:cnaPANCAN242 (PIK3CB),Resistance
+6,PIK3CA_mut,Resistance
+7,gain:cnaPANCAN123,Resistance
+8,loss:cnaPANCAN26,Resistance
+9,NF1_mut,Resistance
+10,ASXL1_mut,Sensitivity
+11,loss:cnaPANCAN152,Sensitivity
+12,loss:cnaPANCAN150 (PTGS1),Sensitivity
+13,"gain:cnaPANCAN191 (FIP1L1,PDGFRA)",Sensitivity
+14,"gain:cnaPANCAN192 (FIP1L1,PDGFRA)",Sensitivity
+15,loss:cnaPANCAN151,Sensitivity
+16,PTPN11_mut,Sensitivity
+17,BRAF_mut,Sensitivity
+18,CNOT3_mut,Sensitivity
+19,loss:cnaPANCAN148,Sensitivity
+20,loss:cnaPANCAN149,Sensitivity
+21,loss:cnaPANCAN74,Sensitivity
+22,DNMT3A_mut,Sensitivity
+23,BCR-ABL_mut,Sensitivity

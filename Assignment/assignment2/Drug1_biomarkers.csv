@@ -1,0 +1,61 @@
+,Biomarkers,drug1_Response
+0,TP53_mut,Resistance
+1,"gain:cnaPANCAN176 (CCT5,TERT,TRIO)",Resistance
+2,"gain:cnaPANCAN108 (CHD9,CYLD)",Resistance
+3,gain:cnaPANCAN57 (CAT),Resistance
+4,gain:cnaPANCAN177 (IL7R),Resistance
+5,loss:cnaPANCAN26,Resistance
+6,"gain:cnaPANCAN280 (ARID4B,FH)",Resistance
+7,"gain:cnaPANCAN301 (CDK12,ERBB2,MED24)",Resistance
+8,gain:cnaPANCAN91 (MYC),Resistance
+9,"gain:cnaPANCAN393 (FOXA1,NKX2-1,PSMA6)",Resistance
+10,RB1_mut,Resistance
+11,gain:cnaPANCAN29 (KAT6B),Resistance
+12,"gain:cnaPANCAN362 (CRNKL1,FOXA2)",Resistance
+13,"gain:cnaPANCAN59 (CCND1,CTTN)",Resistance
+14,"gain:cnaPANCAN84 (FGFR1,WHSC1L1)",Resistance
+15,gain:cnaPANCAN268,Resistance
+16,gain:cnaPANCAN300,Resistance
+17,PCDH18_mut,Resistance
+18,gain:cnaPANCAN242 (PIK3CB),Resistance
+19,gain:cnaPANCAN366,Resistance
+20,gain:cnaPANCAN178,Resistance
+21,gain:cnaPANCAN273,Resistance
+22,"gain:cnaPANCAN394 (GNG2,SOS2)",Resistance
+23,loss:cnaPANCAN16,Resistance
+24,loss:cnaPANCAN329 (ZNF750),Resistance
+25,loss:cnaPANCAN215,Resistance
+26,loss:cnaPANCAN22,Resistance
+27,loss:cnaPANCAN250 (SRGAP3),Resistance
+28,gain:cnaPANCAN1 (CCNE1),Resistance
+29,gain:cnaPANCAN303,Resistance
+30,CCAR1_mut,Resistance
+31,loss:cnaPANCAN15,Resistance
+32,MKL1_mut,Resistance
+33,NCOR1_mut,Resistance
+34,gain:cnaPANCAN344 (MYCN),Sensitivity
+35,RTN4_mut,Sensitivity
+36,"loss:cnaPANCAN295 (ATP1A1,CSDE1,NRAS)",Sensitivity
+37,CHEK2_mut,Sensitivity
+38,loss:cnaPANCAN410,Sensitivity
+39,B2M_mut,Sensitivity
+40,"gain:cnaPANCAN346 (BCL11A,REL,XPO1)",Sensitivity
+41,STK11_mut,Sensitivity
+42,"loss:cnaPANCAN144 (BNC2,CDKN2A,JAK2,PSIP1)",Sensitivity
+43,XRN1_mut,Sensitivity
+44,BRAF_mut,Sensitivity
+45,loss:cnaPANCAN284,Sensitivity
+46,loss:cnaPANCAN285,Sensitivity
+47,loss:cnaPANCAN282,Sensitivity
+48,loss:cnaPANCAN283,Sensitivity
+49,loss:cnaPANCAN229,Sensitivity
+50,loss:cnaPANCAN228,Sensitivity
+51,loss:cnaPANCAN227,Sensitivity
+52,gain:cnaPANCAN345,Sensitivity
+53,loss:cnaPANCAN286,Sensitivity
+54,CTNNB1_mut,Sensitivity
+55,loss:cnaPANCAN281 (RPL22),Sensitivity
+56,loss:cnaPANCAN234,Sensitivity
+57,loss:cnaPANCAN233,Sensitivity
+58,loss:cnaPANCAN232,Sensitivity
+59,loss:cnaPANCAN231,Sensitivity
